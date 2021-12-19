@@ -24,5 +24,5 @@ Then, instead of creating a new deep learning model, we can faster generate new 
 * We got the 3rd place 	:champagne: :confetti_ball: :tada:
 
 ## How to use
-We can find our proposed method in folder `meta-padawan`
+We can find our proposed method in folder `meta-padawan`.
 Information about the conpetition and how to run this experiments, baselines and our proposed method can be found [here](https://github.com/ealcobaca/metadl/blob/master/README2.md).

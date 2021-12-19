@@ -21,7 +21,7 @@ Then, instead of creating a new deep learning model, we can faster generate new 
 
 ## News!
 * You can see our full presentation on [YouTube](https://www.youtube.com/watch?v=XJiT_dbgvQs&ab_channel=EdesioAlcoba%C3%A7a). 
-* We got the 3rd place \0/ 	:champagne: :confetti_ball: :tada:
+* We got the 3rd place 	:champagne: :confetti_ball: :tada:
 
 ## how to use
 We can find our proposed method in folder `meta-padawan`

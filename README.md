@@ -16,7 +16,7 @@ Then, instead of creating a new deep learning model, we can faster generate new 
 * When compared with large architectures, fewer parameters need to be optimized during the learning phase
 * There is no need for expensive hyperparameter optimization steps. We propose the use of a simple linear model
 * The meta-learning takes place using features descriptors learned in different pre-trained models (InceptionResNetV2 and VGG12) combined with features from the original images (PCA-based)
-* A negative point is that the combination of several pre-trained models can lead to the curse of dimensionality that should be treated in some way.
+* A negative point is that the combination of several pre-trained models can lead to the curse of dimensionality that should be treated in some way
 
 
 ## News!

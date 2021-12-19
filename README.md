@@ -1,12 +1,11 @@
 # Meta-Padawan
----
+
 
 ## The Competition
 The [MetaDL](https://metalearning.chalearn.org/) competition brings us several challenges. But the most difficult to address, in our opinion, was those related to the limitation of time and data.
 So the solution should consider that there is not enough time to train a big model. We have only two hours per dataset.
 Imagine tuning the hyperparameters if there is no time to train a large model. No way!
 Lastly, we had only a few examples of each class in the dataset. Creating a model that generalizes well with limited data is very challenging.
-
 
 ## Our solution
 We hypothesized that we can meta-learn from previously trained models.
@@ -20,10 +19,10 @@ Then, instead of creating a new deep learning model, we can faster generate new 
 * A negative point is that the combination of several pre-trained models can lead to the curse of dimensionality that should be treated in some way.
 
 
-## news!
+## News!
 * You can see our full presentation on [YouTube](https://www.youtube.com/watch?v=XJiT_dbgvQs&ab_channel=EdesioAlcoba%C3%A7a). 
 * We got the 3rd place \0/ 	:champagne: :confetti_ball: :tada:
 
-## how to use meta-padawan
+## how to use
 We can find our proposed method in folder `meta-padawan`
-Information about the conpetition and how to run this experiments, baselines and our proposed method can be found next.
+Information about the conpetition and how to run this experiments, baselines and our proposed method can be found [here](https://github.com/ealcobaca/metadl/edit/master/README2.md).
